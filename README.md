@@ -41,6 +41,7 @@ A curated list of trick to run native linux games on Wayland
 | Iconoclasts | no | Construct 3 | SDL2 : no effect |
 | Indivisible | yes* | - | SDL2 preload |
 | Insurgency | yes* | Source | SDL2 preload |
+| Is This Seat Taken? | yes | - | - |
 | ISLANDERS | no | Unity | SDL2: crash |
 | Kerbal Space Program | no | Unity | SDL2: crash |
 | Left 4 Dead 2 | yes* | Source | SDL2 preload |
@@ -48,10 +49,11 @@ A curated list of trick to run native linux games on Wayland
 | Life is Strange 2 | yes* | Unreal Engine 4 | SDL2 preload |
 | Life is Strange: Before the Storm | no | Unity | SDL2: no visible window |
 | Mad Max | no | Apex Engine | SDL2: no visible window |
+| Megabonk | yes | Unity | - |
 | Metro 2033 : Redux | no | 4A Engine | SDL2 : OpenGL 4.0 or later has not been found |
 | Metro Last Light : Redux | no | 4A Engine | SDL2 : OpenGL 4.0 or later has not been found |
 | Minecraft | no | LWJGL | LWJGL crash |
-| Mini Metro | no | Unity | SDL2: crash |
+| Mini Metro | yes | Unity | - |
 | Momodora: Reverie Under The Moonlight | no | GameMaker Studio | SDL2 : no effect |
 | Northgard | no | - | SDL2: crash |
 | PAYDAY 2 | no | Diesel Engine | SDL2: crash |
@@ -59,6 +61,7 @@ A curated list of trick to run native linux games on Wayland
 | Portal 2 | yes* | Source | SDL2 preload |
 | PokeMMO | yes* | GLWF | Need a newer version of GLWF, use the Flatpak version and remove the x11 permission |
 | Project Zomboid |  | LWJGL | XWayland: compatibility mode |
+| Rogue Labyrinth | yes | Construct |  |
 | Robocraft | no | Unity | SDL2: no visible window |
 | Rocket League® | yes* | Unreal Engine 3 | SDL2 preload Native RL deprecated, for online game need Proton/RocketLeague |
 | Saints Row IV | yes* | - | SDL2 preload |
@@ -71,6 +74,7 @@ A curated list of trick to run native linux games on Wayland
 | Sound of Drop - fall into poison - | yes* | - | SDL2 preload |
 | Star Conflict | no | Hammer Engine | SDL2: crash |
 | Stellaris | no | Clausewitz Engine | SDL2: crash |
+| Stone Story RPG | yes | Unity | |
 | Tabletop Simulator | yes* | - | Need `SDL_DYNAMIC_API` and `SDL_VIDEODRIVER` |
 | Terraria | yes* | FNA-XNA | SDL2 preload mouse KO |
 | The Coma: Recut | no | - | SDL2: crash |
@@ -82,6 +86,7 @@ A curated list of trick to run native linux games on Wayland
 | VirtuaVerse | yes* | Unity | Need `SDL_DYNAMIC_API` and `SDL_VIDEODRIVER` |
 | War Thunder | no | - | SDL2 : no effect |
 | We. The Revolution | no | - | SDL2: no visible window |
+| What the Golf? | yes | Unity | - |
 | Whispering Willows | no | Unity | SDL2: crash |
 | XCOM® 2 | no | Unreal Engine 3 | SDL2: crash |
 
