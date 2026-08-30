@@ -70,6 +70,7 @@ A curated list of trick to run native linux games on Wayland
 | Seers Isle | no | - | XWayland crash |
 | Shadow of the Tomb Raider | yes* | - | SDL2 preload |
 | Shan Gui (山桂) | no | - | XWayland crash |
+| Shotgun King: The Final Checkmate | yes | - | - |
 | Sid Meier's Civilization® V | no | Gamebryo | SDL2: crash |
 | Snow Light | no | - | SDL2: logo and crash |
 | Sound of Drop - fall into poison - | yes* | - | SDL2 preload |
