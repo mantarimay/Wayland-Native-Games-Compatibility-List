@@ -12,6 +12,7 @@ A curated list of trick to run native linux games on Wayland
 | BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien | no | - | SDL2: crash |
 | Black Mesa | yes* | Source | SDL2 preload |
 | Borderlands 2 | no | Unreal Engine 3 | SDL2: error |
+| CATO: Buttered Cat | yes | Unity | - |
 | Celeste | yes* | FNA-XNA | SDL2 preload |
 | Chivalry: Medieval Warfare | yes* | Unreal Engine 3 | SDL2 preload mouse KO |
 | Cities: Skylines | no | Unity | launcher fail to start game |
