@@ -40,6 +40,7 @@ A curated list of trick to run native linux games on Wayland
 | HITMAN™ | no | - | SDL2: no visible window |
 | Hollow Knight | no | Unity | SDL2: no visible window |
 | Iconoclasts | no | Construct 3 | SDL2 : no effect |
+| if you stay | yes | Ren'Py | - |
 | Indivisible | yes* | - | SDL2 preload |
 | Insurgency | yes* | Source | SDL2 preload |
 | Is This Seat Taken? | yes | - | - |
